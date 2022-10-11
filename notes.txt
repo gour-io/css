@@ -1,0 +1,56 @@
+Css grid completely changes the way that we envision and build two dimensional layout.
+
+Column axis |
+            V
+
+Row axis  ---->
+
+Grid line
+Gutter
+Grid-track/row & Column
+Grid-area
+Grid-cell
+
+Grid Container
+  Grid items - direct child of drid Container
+
+
+*property
+{display: grid | grid-inline}
+
+*Container
+-----------
+Grid-template-rows         ---|
+Grid-template-columns         |  grid-template
+Grid-template-areas        ---|
+
+
+grid-row-gap              ----| 
+grid-column-gap           ----|  grid-gap 
+
+
+justify-items
+align-items
+justify-content
+align-content
+
+
+grid-auto-rows
+grid-auto-columns
+grid-auto-flow
+
+
+* items
+--------
+
+grid-row-start        -----|
+grid-row-end          -----|  grid-row    ----|
+                                              |  grid-area
+grid-column-start     -----|  grid-column ----|
+grid-column-end       -----|  
+
+
+justify-self
+align-self
+
+order
