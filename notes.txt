@@ -6,7 +6,7 @@ Column axis |
 Row axis  ---->
 
 Grid line
-Gutter
+Gutter ---- Space between the line
 Grid-track/row & Column
 Grid-area
 Grid-cell
